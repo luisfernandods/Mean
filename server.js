@@ -5,8 +5,4 @@ http.createServer(app).listen(4000, function () {
 
 console.log("Servidor Iniciado");
 
-
-
-
-
 });

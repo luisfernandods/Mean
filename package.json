@@ -18,6 +18,7 @@
   },
   "homepage": "",
   "dependencies": {
+    "consign": "^0.1.4",
     "express": "^4.15.3"
   }
 }
